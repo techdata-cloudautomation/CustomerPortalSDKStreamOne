@@ -1,7 +1,7 @@
 <p><strong><img src="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/blob/main/images/GithubBanner.jpg"alt="Customer Portal SDK - StreamOne" width="990" height="380" /></strong></p>
 <p><strong>What is &ldquo;Customer Portal SDK &ndash; StreamOne&rdquo;?</strong><br />Customer Portal Software Development Kit (SDK) &ndash; StreamOne, is a subscription management web application that allows
 both customers and end users to do seat adjustments for MSFT CSP.<br /><br />
-<p><img src="https://github.com/techdata-cloudautomation/cpsso/blob/master/ImageLibrary/sdk.PNG?raw=true" alt="" width="960" height="495" /><br /><b>There are two user levels:</b><br />&bull; The customer portal allows you to manage users, modify seat quantity and view log history, see cost prices, setup sales
+<p><img src="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/blob/main/images/sdk.png?raw=true" alt="" width="960" height="495" /><br /><b>There are two user levels:</b><br />&bull; The customer portal allows you to manage users, modify seat quantity and view log history, see cost prices, setup sales
 margins and seat increase limits<br />&bull; The end user portal allows them to modify seat quantity and view log history, also see pre-defined sales price</p>
 <p><strong>What are the key benefits?</strong><br />Firstly, it is very easy to use and there is no need to log into StreamOne. In StreamOne only administrators are able to manage users and modify seats. In Customer Portal SDK – StreamOne any approved users from your organisation can manage users and modify seats 24/7 on any device. Most importantly, your customers can also be given access to the
 app to modify seat quantity so you no longer need to be involved in the process, saving you time and money. Lastly changes are effective in seconds at the click of a button within the app. With the web app you can manage multiple user access and also view the history of any license changes.<br/></p>
@@ -9,7 +9,7 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <p><strong>When will it be available?</strong><br />Customer Portal SDK &ndash; StreamOne is available now.</p>
 <p><strong>Who will it be available to?</strong><br />It is available to all customers that have basic Azure knowledge and an Azure account.</p>
 <p><strong>What does Customer Portal SDK - StreamOne look like?</strong><br />It looks great! It has a very simple and modern looking Graphical User Interface (GUI).</p>
-<p><img src="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/blob/main/images/sdk.png?raw=true" alt="" width="770" height="410" /></p>
+<p><img src="https://raw.githubusercontent.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/main/images/9_Customer%20Portal%20SDK%20View.jpg?raw=true" alt="" width="770" height="410" /></p>
 <p><strong>What are the customer pre-requisites?<br /></strong>&bull; Customer Portal SDK StreamOne License Terms<br />&bull; Partner API credentials<br />&bull; Azure account &amp; CSP subscription (with Global Access Level)<br />&bull; Microsoft account for login
 </strong><br />&bull; O365 E-mail to trigger notifications<br />&bull;E-mail to receive notifications<br />
 <p><strong>When Hosting the SDK</strong><br />&bull; Partner resources to maintain it on Azure&nbsp;<br />&bull; Estimate monthly cost ~USD4.90 (List Price, VAT Excluded)<br />App Service, Free Tier, F1, 1 GB RAM, 1 GB Storage<br />Azure SQL DB Single Database, Basic Tier. 5 DTUs, 2, 2 GB</p>
