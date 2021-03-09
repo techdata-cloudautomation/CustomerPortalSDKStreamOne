@@ -1,4 +1,4 @@
-<p><strong><img src="https://github.com/techdata-cloudautomation/cpsso/blob/master/Marketing/GithubBanner.JPG" alt="Customer Portal SDK - StreamOne" width="990" height="380" /></strong></p>
+<p><strong><img src="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/blob/main/images/GithubBanner.jpg"alt="Customer Portal SDK - StreamOne" width="990" height="380" /></strong></p>
 <p><strong>What is &ldquo;Customer Portal SDK &ndash; StreamOne&rdquo;?</strong><br />Customer Portal Software Development Kit (SDK) &ndash; StreamOne, is a subscription management web application that allows
 both customers and end users to do seat adjustments for MSFT CSP.<br /><br />
 <p><img src="https://github.com/techdata-cloudautomation/cpsso/blob/master/ImageLibrary/sdk.PNG?raw=true" alt="" width="960" height="495" /><br /><b>There are two user levels:</b><br />&bull; The customer portal allows you to manage users, modify seat quantity and view log history, see cost prices, setup sales
@@ -9,14 +9,14 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <p><strong>When will it be available?</strong><br />Customer Portal SDK &ndash; StreamOne is available now.</p>
 <p><strong>Who will it be available to?</strong><br />It is available to all customers that have basic Azure knowledge and an Azure account.</p>
 <p><strong>What does Customer Portal SDK - StreamOne look like?</strong><br />It looks great! It has a very simple and modern looking Graphical User Interface (GUI).</p>
-<p><img src="https://github.com/techdata-cloudautomation/cpsso/blob/master/Marketing/9_Customer%20Portal%20SDK%20View.JPG?raw=true" alt="" width="770" height="410" /></p>
+<p><img src="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/blob/main/images/sdk.png?raw=true" alt="" width="770" height="410" /></p>
 <p><strong>What are the customer pre-requisites?<br /></strong>&bull; Customer Portal SDK StreamOne License Terms<br />&bull; Partner API credentials<br />&bull; Azure account &amp; CSP subscription (with Global Access Level)<br />&bull; Microsoft account for login
 </strong><br />&bull; O365 E-mail to trigger notifications<br />&bull;E-mail to receive notifications<br />
 <p><strong>When Hosting the SDK</strong><br />&bull; Partner resources to maintain it on Azure&nbsp;<br />&bull; Estimate monthly cost ~USD4.90 (List Price, VAT Excluded)<br />App Service, Free Tier, F1, 1 GB RAM, 1 GB Storage<br />Azure SQL DB Single Database, Basic Tier. 5 DTUs, 2, 2 GB</p>
 <p><strong>How to get onboarded?</strong><br />Contact SCM Customer Integrations Team according of your region:</p>
 <p><strong>EUROPE</strong><br /><a href="mailto:EU.API.Support@Techdata.com">EU.API.Support@Techdata.com</a><br/><strong>CANADA</strong><br /><a href="mailto:StreamOne@Techdata.ca">StreamOne@Techdata.ca</a><br><strong>UNITED STATES</strong><br />Contact your Local Sales Rep</p>
 <p><strong>Summary - Deployment using Github and Powershell Script</strong><br />We have accomplished the automation of 100% of the deployment of this SDK application. Tech Data Business Partners with basic Azue knowledge will be able to self-deploy the App. The first step is to dowload the Deployment Script at the botton of this page and use Powershell to deploy the application. The process will take around 17 minutes;</p>
-<!--<p><img src="https://github.com/techdata-cloudautomation/cpsso/blob/master/Marketing/8.jpg?raw=true" alt="" width="645" height="772" /></p>-->
+<!--<p><img src="https://raw.githubusercontent.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/main/images/9_Customer%20Portal%20SDK%20View.jpg" alt="" width="645" height="772" /></p>-->
 <p><strong>Pre-deployment &nbsp;Best Practices</strong></p>
 <ol>
 <li>Use incognito Browser</li>
@@ -62,7 +62,7 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <p><em>Notice that:&nbsp;App uses MSFT Server to trigger notifications. This e-mail should have a MSFT Account associated with it.</em></p>
 <p><strong>Notification email password:&nbsp;</strong><em>password of above e-mail</em></p>
 <p><em>Notice that:&nbsp;Real password of the e-mail account above.</em></p>
-<p>&nbsp;<img src="https://github.com/techdata-cloudautomation/cpsso/blob/master/Marketing/5.jpg?raw=true" alt="" width="500" height="333" /></p>
+<p>&nbsp;<img src="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/blob/main/images/5.jpg?raw=true?raw=true" alt="" width="500" height="333" /></p>
 <p><strong>After-deployment &nbsp;Best Practices</strong></p>
 <p>&nbsp;First Time you login in to the Application make sure that you use the same e-mail that you have used in the field Allowed Resellers</p>
 <p>&nbsp;<strong>Support Documents</strong></p>
