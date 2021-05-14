@@ -1,7 +1,8 @@
 <p><strong><img src="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/blob/main/images/GithubBanner.jpg"alt="Customer Portal SDK - StreamOne" width="990" height="380" /></strong></p>
 <p><strong>What is &ldquo;Customer Portal SDK &ndash; StreamOne&rdquo;?</strong><br />Customer Portal Software Development Kit (SDK) &ndash; StreamOne, is a subscription management web application that allows
-both customers and end users to do seat adjustments for MSFT CSP.<br /><br />
-<p><img src="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/blob/main/images/sdk.png?raw=true" alt="" width="960" height="495" /><br /><b>There are two user levels:</b><br />&bull; The customer portal allows you to manage users, modify seat quantity and view log history, see cost prices, setup sales
+both customers and end users to do seat adjustments for MSFT CSP.<br />
+<p><img src="https://raw.githubusercontent.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/main/images/sdk.PNG" alt="" width="960" height="554" /><br /><b>
+<br>There are two user levels:</b><br />&bull; The customer portal allows you to manage users, modify seat quantity and view log history, see cost prices, setup sales
 margins and seat increase limits<br />&bull; The end user portal allows them to modify seat quantity and view log history, also see pre-defined sales price</p>
 <p><strong>What are the key benefits?</strong><br />Firstly, it is very easy to use and there is no need to log into StreamOne. In StreamOne only administrators are able to manage users and modify seats. In Customer Portal SDK – StreamOne any approved users from your organisation can manage users and modify seats 24/7 on any device. Most importantly, your customers can also be given access to the
 app to modify seat quantity so you no longer need to be involved in the process, saving you time and money. Lastly changes are effective in seconds at the click of a button within the app. With the web app you can manage multiple user access and also view the history of any license changes.<br/></p>
@@ -38,6 +39,7 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <p><em>Notice that:&nbsp;The auto-deployment script must create a new Resource Group. You cannot use an existing Resource Group.</em></p>
 <p><strong>Site&nbsp;Name:</strong>&nbsp;<em>This is your App URL subdomain.&nbsp; The refence that will come after&nbsp;.azurewebsites.net.</em></p>
 <p><em>Notice that:&nbsp;You must insert only the subdomain, without http and .azurewebsites.net</em></p>
+<p><strong>Token<em>&nbsp;</em></strong>: This is your unique token to access the Private Gihub Repository where the App Code is hosted.</em></p>
 <p><strong>Location:<em>&nbsp;</em></strong><em>Your Server Location</em></p>
 <p><em>Notice that:&nbsp;You cannot have any typos. Example: West Europe, North Europe, East Europe, East US, Central Canada&hellip;</em></p>
 <p><strong>SQL&nbsp;password:</strong>&nbsp;&nbsp;<em>create one as you please</em></p>
@@ -91,7 +93,7 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <p>All communication will be confidential with very limited circulation.</p>
 <p>Support request emails should be sent to each team in accordance with your region:</p>
 <p><strong>EUROPE</strong><br /> <a href="mailto:EU.API.Support@TechData.com">EU.API.Support@TechData.com</a><br /><strong>CANADA</strong><br /><a href="mailto:StreamOne@Techdata.ca">StreamOne@Techdata.ca</a><br><strong>UNITED STATES</strong><br />Contact your Local Sales Rep</p>
-<p><strong>LATEST APP VERSIONS Log</strong></p>
+<p><strong>CUSTOMER PORTAL SDK - VERSIONING</strong></p>
 <p><strong>VERSION 1.52 Fixes:</strong></p>
 <p>- MSFT Edge Bugs</p>
 <p>- Customer Product Page Rendering Enhancements</p>
@@ -134,6 +136,10 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <ul>
 <li><em>Smal bug fixes</em></li>
 </ul>
+<p><em><b>VERSION 1.64 Fixes</b></em></p>
+<ul>
+<li><em>Product Images Support to Private Github Repository</em></li>
+</ul>
 <p><strong>INSTALLATION DEPLOYMENT</strong></p>
-<li><em>Deployment Script Available Upon Demand</em></li>
+<li><em>Deployment Script Available Upon Demand. Email to:<a href="mailto:EU.API.Support@Techdata.com">EU.API.Support@Techdata.com</a><br/></em></li>
  </ul>
