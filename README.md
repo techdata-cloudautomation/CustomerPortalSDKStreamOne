@@ -140,6 +140,7 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <ul>
 <li><em>Product Images Support to Private Github Repository</em></li>
 </ul>
-<p><strong>INSTALLATION DEPLOYMENT</strong></p>
-<li><em>Deployment Script Available Upon Demand. Email to:<a href="mailto:EU.API.Support@Techdata.com">EU.API.Support@Techdata.com</a><br/></em></li>
- </ul>
+<p><em><a class="github-button" data-icon="octicon-cloud-download" aria-label="Download ntkme/github-buttons on GitHub"><b>Download App Installation Scripts</b></a></em></p>
+<p><a href="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/raw/main/DeployScript/cpssodeploy.zip" target="_blank">Deployment Script</a></p>
+<p><a href="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/raw/main/DeployScript/Public2PrivateChange.zip" target="_blank">Public to Private Script</a></p>
+<p>&nbsp;</p>
