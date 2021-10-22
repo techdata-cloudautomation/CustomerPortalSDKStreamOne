@@ -70,7 +70,7 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <p>&nbsp;<strong>Support Documents</strong></p>
 <p><em>Auto Deployment</em></p>
 <ul>
-<li><a href="https://github.com/techdata-cloudautomation/cpsso/blob/master/SupportDocs/Customer%20Portal%20SDK%20StreamOne%20Deployment%20Doc_July%202020.pdf">Customer Portal SDK Auto Deployment Document</a></li>
+<li><a href="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/blob/main/Customer%20Portal%20SDK%20StreamOne%20Deplyment%20Doc.pdf">Customer Portal SDK Auto Deployment Document</a></li>
 </ul>
 <p><em>Reseller User Manual</em></p>
 <ul>
