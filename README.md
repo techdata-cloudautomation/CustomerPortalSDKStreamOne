@@ -148,6 +148,10 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <ul>
 <li><em>It provides visibility to NCE atributes and ways to distiguish NCE form Legacy Products in the UI.</em></li>
 </ul>
+<p><em><b>VERSION 1.9</b></em></p>
+<ul>
+<li><em>It allows seat decrease within the first 168 hours after the successful provisioning of the order on the initial seat quantity that was placed for NCE .</em></li>
+</ul>
 <p><em><a class="github-button" data-icon="octicon-cloud-download" aria-label="Download ntkme/github-buttons on GitHub"><b>Download App Installation Scripts</b></a></em></p>
 <p><a href="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/raw/main/DeployScript/cpssodeploy.zip" target="_blank">Deployment Script</a></p>
 <p><a href="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/raw/main/DeployScript/Public2PrivateChange.zip" target="_blank">Public to Private Script</a></p>
