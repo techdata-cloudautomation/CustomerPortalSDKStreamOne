@@ -74,7 +74,7 @@ app to modify seat quantity so you no longer need to be involved in the process,
 </ul>
 <p><em>Reseller User Manual</em></p>
 <ul>
-<li><a href="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/blob/main/Customer%20Portal%20SDK%20StreamOne%201.9.pdf">Customer Portal SDK Reseller User Manual 1.9</a></li>
+<li><a href="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/blob/main/Customer%20Portal%20SDK%20StreamOne%201.10.pdf">Customer Portal SDK Reseller User Manual 1.10</a></li>
 </ul>
 <p>Manual deployments are also possible, but is a longer process that you may like to avoid.</p>
 <p>In case you want to engage on manual deployment the documentation can be found in this <a href="https://github.com/techdata-cloudautomation/cpsso/tree/master/SupportDocs">link</a></p>
