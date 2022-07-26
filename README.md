@@ -151,6 +151,7 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <p><em><b>VERSION 1.9</b></em></p>
 <ul>
 <li><em>It allows seat decrease within the first 168 hours after the successful provisioning of the order on the initial seat quantity that was placed for NCE .</em></li>
+</ul> 
 <p><em><b>VERSION 1.10</b></em></p>
 <ul>
 <li><em>App Customization, Email Notification with NCE Attributes and small changes .</em></li>
