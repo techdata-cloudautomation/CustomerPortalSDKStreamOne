@@ -146,7 +146,7 @@ app to modify seat quantity so you no longer need to be involved in the process,
 </ul>
 <p><em><b>VERSION 1.7</b></em></p>
 <ul>
-<li><em>It provides visibility to NCE atributes and ways to distiguish NCE form Legacy Products in the UI.</em></li>
+<li><em>It provides visibility to NCE attributes and ways to distinguish NCE form Legacy Products in the UI.</em></li>
 </ul>
 <p><em><b>VERSION 1.9</b></em></p>
 <ul>
@@ -159,6 +159,11 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <p><em><b>VERSION 1.11</b></em></p>
 <ul>
 <li><em>Welcome Email Customization, Seat History change report for all end customers in CSV format, and Email notification setup allows MFA enabled with App-Password.</em></li>
+</ul>
+<p><em><b>VERSION 1.11.1</b></em></p>
+<ul>
+<li><em>Fix for Microsoft TLS 1.2 requirements (previous versions were causing looping login issues and users unable to access the app).
+</em></li>
 </ul>
 <p><em><a class="github-button" data-icon="octicon-cloud-download" aria-label="Download ntkme/github-buttons on GitHub"><b>Download App Installation Scripts</b></a></em></p>
 <p><a href="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/raw/main/DeployScript/cpssodeploy.zip" target="_blank">Deployment Script</a></p>
