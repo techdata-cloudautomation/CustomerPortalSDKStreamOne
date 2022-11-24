@@ -165,6 +165,11 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <li><em>Fix for Microsoft TLS 1.2 requirements (previous versions were causing looping login issues and users unable to access the app).
 </em></li>
 </ul>
+<p><em><b>VERSION 1.12</b></em></p>
+<ul>
+<li><em>New Reports: All Users by Role, Pricebook Configuration, Sales Order mapping and NCE Product Details. SDK turn On/Off toggle + custom message display, Enhanced APP User Removal, Bug Fixes (Sign Off bug and Saving with no changes on some screens).
+</em></li>
+</ul>
 <p><em><a class="github-button" data-icon="octicon-cloud-download" aria-label="Download ntkme/github-buttons on GitHub"><b>Download App Installation Scripts</b></a></em></p>
 <p><a href="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/raw/main/DeployScript/cpssodeploy.zip" target="_blank">Deployment Script</a></p>
 <p><a href="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/raw/main/DeployScript/Public2PrivateChange.zip" target="_blank">Public to Private Script</a></p>
