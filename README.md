@@ -170,6 +170,11 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <li><em>New Reports: All Users by Role, Pricebook Configuration, Sales Order mapping and NCE Product Details. SDK turn On/Off toggle + custom message display, Enhanced APP User Removal, Bug Fixes (Sign Off bug and Saving with no changes on some screens).
 </em></li>
 </ul>
+<p><em><b>VERSION 1.13</b></em></p>
+<ul>
+<li><em>Seat Decrease after Seat Increase, Cancellation and Addon / Base Subscription Visibility.
+</em></li>
+</ul>
 <p><em><a class="github-button" data-icon="octicon-cloud-download" aria-label="Download ntkme/github-buttons on GitHub"><b>Download App Installation Scripts</b></a></em></p>
 <p><a href="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/raw/main/DeployScript/cpssodeploy.zip" target="_blank">Deployment Script</a></p>
 <p><a href="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/raw/main/DeployScript/Public2PrivateChange.zip" target="_blank">Public to Private Script</a></p>
