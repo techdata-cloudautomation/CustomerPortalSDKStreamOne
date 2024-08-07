@@ -14,8 +14,8 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <p><strong>What are the customer pre-requisites?<br /></strong>&bull; Customer Portal SDK StreamOne License Terms<br />&bull; Partner API credentials<br />&bull; Azure account &amp; CSP subscription (with Global Access Level)<br />&bull; Microsoft account for login
 </strong><br />&bull; O365 E-mail to trigger notifications<br />&bull;E-mail to receive notifications<br />
 <p><strong>When Hosting the SDK</strong><br />&bull; Partner resources to maintain it on Azure&nbsp;<br />&bull; Estimate monthly cost ~USD4.90 (List Price, VAT Excluded)<br />App Service, Free Tier, F1, 1 GB RAM, 1 GB Storage<br />Azure SQL DB Single Database, Basic Tier. 5 DTUs, 2, 2 GB</p>
-<p><strong>How to get onboarded?</strong><br />Contact SCM Customer Integrations Team according of your region:</p>
-<p><strong>EUROPE</strong><br /><a href="mailto:EU.API.Support@Techdata.com">EU.API.Support@tdsynnex.com</a><br/><strong>CANADA</strong><br />and <br><strong>UNITED STATES</strong><br />Contact your Local Sales Rep</p>
+<p><strong>How to get onboarded?</strong><br />Contact SCM Customer Integrations Team:</p>
+<p><strong>EUROPE</strong><br /><a href="mailto:EU.API.Support@Techdata.com">EU.API.Support@tdsynnex.com</a><br/><strong>Other Regions not supported at the moment</strong><br />
 <p><strong>Summary - Deployment using Github and Powershell Script</strong><br />We have accomplished the automation of 100% of the deployment of this SDK application. Tech Data Business Partners with basic Azue knowledge will be able to self-deploy the App. The first step is to dowload the Deployment Script at the botton of this page and use Powershell to deploy the application. The process will take around 17 minutes;</p>
 <!--<p><img src="https://raw.githubusercontent.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/main/images/9_Customer%20Portal%20SDK%20View.jpg" alt="" width="645" height="772" /></p>-->
 <p><strong>Pre-deployment &nbsp;Best Practices</strong></p>
