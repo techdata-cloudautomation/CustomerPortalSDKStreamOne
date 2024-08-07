@@ -41,7 +41,7 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <p><em>Notice that:&nbsp;You must insert only the subdomain, without http and .azurewebsites.net</em></p>
 <p><strong>Token<em>&nbsp;</em></strong>: This is your unique token to access the Private Gihub Repository where the App Code is hosted.</em></p>
 <p><strong>Location:<em>&nbsp;</em></strong><em>Your Server Location</em></p>
-<p><em>Notice that:&nbsp;You cannot have any typos. Example: West Europe, North Europe, East Europe, East US, Central Canada&hellip;</em></p>
+<p><em>Notice that:&nbsp;You cannot have any typos. Example: West Europe, North Europe, East Europe, &hellip;</em></p>
 <p><strong>SQL&nbsp;password:</strong>&nbsp;&nbsp;<em>create one as you please</em></p>
 <p><em>Notice that:&nbsp;You must have a password that is complex enough. Azure Password Recommendations&nbsp;<a href="https://docs.microsoft.com/en-us/previous-versions/azure/jj943764(v=azure.100)" rel="nofollow">LINK</a>. Please avoid using symbols as a last character.</em></p>
 <p><strong>Allowed Resellers:</strong><em>&nbsp;e-mail to get initial access to the Application.</em></p>
@@ -56,7 +56,7 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <p><em>Notice that:&nbsp;This information is provided by Customer Integrations Team. If you don&rsquo;t have it, please contact us.</em></p>
 <p><strong>Reseller&nbsp;name:&nbsp;</strong><em>Your company name</em></p>
 <p><em>Notice that:&nbsp;This information can be updated later.</em></p>
-<p><strong>Reseller&nbsp;region:&nbsp;</strong><em>ex: EUROPE, US, CANADA.</em></p>
+<p><strong>Reseller&nbsp;region:&nbsp;</strong><em>ex: EUROPE.</em></p>
 <p><em>Notice that:&nbsp;Please use capital letters</em></p>
 <p><strong>Notification&nbsp;emails:&nbsp;</strong><em>e-mail to receive seat change notifications</em></p>
 <p><em>Notice that:&nbsp;Any e-mail. Notice that Notification E-mails and Notification E-mails from can be the same email.</em></p>
@@ -91,8 +91,8 @@ app to modify seat quantity so you no longer need to be involved in the process,
 </ul>
 <p>While issue complexity varies, the goal is to resolve issues within five working days: Monday-Friday: Business Hours.</p>
 <p>All communication will be confidential with very limited circulation.</p>
-<p>Support request emails should be sent to each team in accordance with your region:</p>
-<p><strong>EUROPE</strong><br /> <a href="mailto:EU.API.Support@TechData.com">EU.API.Support@TechData.com</a><br /><strong>CANADA</strong><br /><a href="mailto:StreamOne@Techdata.ca">StreamOne@Techdata.ca</a><br><strong>UNITED STATES</strong><br />Contact your Local Sales Rep</p>
+<p>Support request please send an email to our team:</p>
+<p><strong>EUROPE</strong><br /> <a href="mailto:EU.API.Support@tdsynnex.com">EU.API.Support@tdsynnex.com</a>
 <p><strong>CUSTOMER PORTAL SDK - VERSIONING</strong></p>
 <p><strong>VERSION 1.52 Fixes:</strong></p>
 <p>- MSFT Edge Bugs</p>
