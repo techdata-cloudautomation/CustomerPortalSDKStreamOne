@@ -179,7 +179,7 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <ul>
 <li><em>Connected to StreamOne ION
 </em></li>
-<li><em><b></b>Please notice this version will disconnect StreaOne Marketplace (SCM) API and StreamOne ION API credentials have to be properly setup <b></em>
+<li><em><b>Please notice this version will disconnect StreaOne Marketplace (SCM) API and StreamOne ION API credentials have to be properly setup </b></em>
 </em></li>
 </ul>
 <p><em><a class="github-button" data-icon="octicon-cloud-download" aria-label="Download ntkme/github-buttons on GitHub"><b>Download App Installation Scripts</b></a></em></p>
