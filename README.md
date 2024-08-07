@@ -1,4 +1,4 @@
-<p><strong><img src="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/blob/main/images/GithubBanner.jpg"alt="Customer Portal SDK - StreamOne" width="990" height="380" /></strong></p>
+<p><strong><img src="https://github.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/blob/main/images/GithubBanner2.jpg"alt="Customer Portal SDK - StreamOne" width="990" height="380" /></strong></p>
 <p><strong>What is &ldquo;Customer Portal SDK &ndash; StreamOne&rdquo;?</strong><br />Customer Portal Software Development Kit (SDK) &ndash; StreamOne, is a subscription management web application that allows
 both customers and end users to do seat adjustments for MSFT CSP.<br />
 <p><img src="https://raw.githubusercontent.com/techdata-cloudautomation/CustomerPortalSDKStreamOne/main/images/sdk.PNG" alt="" width="960" height="554" /><br /><b>
