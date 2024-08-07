@@ -111,44 +111,44 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <ul>
 <li><em>The option to see &ldquo;All&rdquo; companies and products from the App has been removed. Reason: this is not supported by Partner APIs and it is making the App to timeout.&nbsp; We are sorry about this inconvenience. Once this functionality is supported you maybe able to have it back.</em></li>
 </ul>
-<p><strong>VERSION 1.55:</strong></p>
+<p><strong>VERSION 1.05.5:</strong></p>
 <p>- App Sync shows Settings Data&nbsp;<br />Previously version 1.54 was not linking correcly the existing setting data in the DB with the new App Logic.So at App UI old settings data was not visible.Version 1.55 brings a fix to this. After sincing the correct linking of data will be avaiable with previous App configuration.</p>
-<p><em><strong>VERSION 1.56 and 1.57 Fixes</strong></em></p>
+<p><em><strong>VERSION 1.05.6 and 1.05.7 Fixes</strong></em></p>
 <ul>
 <li><em>Small bugs</em><em>&nbsp;</em></li>
 </ul>
-<p><em><strong>VERSION 1.58</strong></em></p>
+<p><em><strong>VERSION 1.05.8</strong></em></p>
 <ul>
 <li><em>Only compiled code is available.</em><em>&nbsp;</em></li>
 <li><em>Bug fix for a fix for a small bug that was affecting a single Reseller.</em><em>&nbsp;</em></li>
 <li><em>Third party library updates.</em><em>&nbsp;</em></li>
 </ul>
-<p><em><b>VERSION 1.61</b></em></p>
+<p><em><b>VERSION 1.06.1</b></em></p>
 <ul>
 <li><em>Show prices for Addon</em></li>
 <li><em>Smal bug fixes</em></li>
 </ul>
-<p><em><b>VERSION 1.62</b></em></p>
+<p><em><b>VERSION 1.06.2</b></em></p>
 <ul>
 <li><em>Smal bug fixes</em></li>
 </ul>
-<p><em><b>VERSION 1.63</b></em></p>
+<p><em><b>VERSION 1.06.3</b></em></p>
 <ul>
 <li><em>Smal bug fixes</em></li>
 </ul>
-<p><em><b>VERSION 1.64</b></em></p>
+<p><em><b>VERSION 1.06.4</b></em></p>
 <ul>
 <li><em>Product Images Support to Private Github Repository</em></li>
 </ul>
-<p><em><b>VERSION 1.65</b></em></p>
+<p><em><b>VERSION 1.06.5</b></em></p>
 <ul>
 <li><em>It covers requirements from Security Team from latest Audition on code 1.64</em></li>
 </ul>
-<p><em><b>VERSION 1.7</b></em></p>
+<p><em><b>VERSION 1.07</b></em></p>
 <ul>
 <li><em>It provides visibility to NCE attributes and ways to distinguish NCE form Legacy Products in the UI.</em></li>
 </ul>
-<p><em><b>VERSION 1.9</b></em></p>
+<p><em><b>VERSION 1.09</b></em></p>
 <ul>
 <li><em>It allows seat decrease within the first 168 hours after the successful provisioning of the order on the initial seat quantity that was placed for NCE .</em></li>
 </ul> 
@@ -178,6 +178,8 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <p><em><b>VERSION 2.0</b></em></p>
 <ul>
 <li><em>Connected to StreamOne ION
+</em></li>
+<li><em><b></b>Please notice this version will disconnect StreaOne Marketplace (SCM) API and StreamOne ION API credentials have to be properly setup </em>b>
 </em></li>
 </ul>
 <p><em><a class="github-button" data-icon="octicon-cloud-download" aria-label="Download ntkme/github-buttons on GitHub"><b>Download App Installation Scripts</b></a></em></p>
