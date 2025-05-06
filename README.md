@@ -175,6 +175,7 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <li><em>Seat Decrease after Seat Increase, Cancellation and Addon / Base Subscription Visibility.
 </em></li>
 </ul>
+
 <p><em><b>VERSION 2.0</b></em></p>
 <ul>
 <li><em>Connected to StreamOne ION
@@ -184,6 +185,24 @@ app to modify seat quantity so you no longer need to be involved in the process,
 <li><em><b>Please notice this version will disconnect StreaOne Marketplace (SCM) API and StreamOne ION API credentials have to be properly setup </b></em>
 </em></li>
 <li><em><b>Please notice due the platform change customer mapping and price setup has to be redone</b></em>
+</em></li>
+</ul>
+<p><em><b>VERSION 2.0.1</b></em></p>
+<ul>
+<li><em><b>Autorenewal On/Off (partner view only)</b> SDK now allows also to turn on and off autorenewal of subscriptions. Notice this feature is only available on the Partner view and end customers do not have access to manage this.
+</em></li>
+<li><em><b>Price update</b> - Admins are now able to update pricing in sync with any changes from StreamOne ION in case you use our optional pricing module. </em>
+</em></li>
+<li><em><b>Characters length limit for the End-Customer Company Names.</b>  We have increased the current character length limit for the end-customer company names to 200.</em>
+</em></li>
+<li><em><b>Security updates.</b>  
+<div class='centered-list' </em>
+  <ul>
+    <li> Libraries updated. </li>
+    <li> App Service Configuration updated. </li>
+    <li> Encryption of stored APP configuration data. </li>
+    <li> Session ID stored with secure flag. </li>
+  </ul>
 </em></li>
 </ul>
 <p><em><a class="github-button" data-icon="octicon-cloud-download" aria-label="Download ntkme/github-buttons on GitHub"><b>Download App Installation Scripts</b></a></em></p>
